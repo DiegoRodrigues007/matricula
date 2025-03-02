@@ -1,0 +1,11 @@
+C:\matricula-app\back-end\Matriculas.Domain\bin\Debug\net9.0\Matriculas.Domain.deps.json
+C:\matricula-app\back-end\Matriculas.Domain\bin\Debug\net9.0\Matriculas.Domain.dll
+C:\matricula-app\back-end\Matriculas.Domain\bin\Debug\net9.0\Matriculas.Domain.pdb
+C:\matricula-app\back-end\Matriculas.Domain\obj\Debug\net9.0\Matriculas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\matricula-app\back-end\Matriculas.Domain\obj\Debug\net9.0\Matriculas.Domain.AssemblyInfoInputs.cache
+C:\matricula-app\back-end\Matriculas.Domain\obj\Debug\net9.0\Matriculas.Domain.AssemblyInfo.cs
+C:\matricula-app\back-end\Matriculas.Domain\obj\Debug\net9.0\Matriculas.Domain.csproj.CoreCompileInputs.cache
+C:\matricula-app\back-end\Matriculas.Domain\obj\Debug\net9.0\Matriculas.Domain.dll
+C:\matricula-app\back-end\Matriculas.Domain\obj\Debug\net9.0\refint\Matriculas.Domain.dll
+C:\matricula-app\back-end\Matriculas.Domain\obj\Debug\net9.0\Matriculas.Domain.pdb
+C:\matricula-app\back-end\Matriculas.Domain\obj\Debug\net9.0\ref\Matriculas.Domain.dll

@@ -1,0 +1,182 @@
+.tabela-container {
+  position: relative;
+  width: 100%;
+  overflow-x: auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
+
+.tabela-aluno {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  min-width: 750px;
+}
+
+.tabela-aluno thead tr {
+  background-color: #f9fafb;
+}
+
+.tabela-aluno th,
+.tabela-aluno td {
+  text-align: left;
+  padding: 12px 16px;
+  border-bottom: 1px solid #e5e7eb;
+  vertical-align: middle;
+}
+
+.tabela-aluno th:first-child,
+.tabela-aluno td:first-child {
+  width: 40px;
+  text-align: center;
+}
+
+.info-usuario {
+  display: flex;
+  align-items: center;
+}
+
+.iniciais {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #9f7aea;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: 600;
+  margin-right: 12px;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.nome {
+  font-weight: 600;
+  color: #111827;
+}
+
+.entrada-edicao {
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  appearance: none !important;
+  background-color: #fff !important;
+  color: #000 !important;
+  border: 1px solid #ccc !important;
+  border-radius: 4px !important;
+  padding: 8px !important;
+  outline: none !important;
+}
+
+.acoes {
+  position: relative;
+  text-align: right;
+  width: 120px;
+}
+
+.acoes-edicao {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.botao-reticencias {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #6b7280;
+  font-size: 1rem;
+  transition: color 0.2s;
+}
+
+.botao-reticencias:hover {
+  color: #111827;
+}
+
+.menu-suspenso {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 4px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  z-index: 9999;
+  min-width: 120px;
+}
+
+.item-menu {
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+  width: 100%;
+  background: none;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.2s;
+}
+
+.item-menu:hover {
+  background-color: #f3f4f6;
+}
+
+.icone-menu {
+  margin-right: 8px;
+  font-size: 1rem;
+}
+
+.botao-icone {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.botao-salvar {
+  color: #9f7aea;
+}
+
+.botao-salvar:hover {
+  color: #805ad5;
+}
+
+.botao-cancel {
+  color: #e2e8f0;
+}
+
+.botao-cancel:hover {
+  color: #cbd5e0;
+}
+
+.sem-dados {
+  text-align: center;
+  padding: 20px;
+}
+
+.acoes-massa {
+  margin-top: 10px;
+  text-align: right;
+}
+
+.botao-deletar-massa {
+  padding: 10px 20px;
+  background-color: #dc2626;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.botao-deletar-massa:hover {
+  background-color: #b91c1c;
+}

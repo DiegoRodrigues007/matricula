@@ -1,0 +1,80 @@
+.formulario-aluno {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.formulario-aluno h2 {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  color: #333;
+}
+
+.grupo-campo {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.grupo-campo label {
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #444;
+}
+
+.grupo-campo input {
+  padding: 12px 16px;
+  border: 2px solid #ccc;
+  border-radius: 9999px;
+  font-size: 0.95rem;
+  background-color: #fff !important;
+  color: #333 !important;
+  color: #333;
+  outline: none;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.grupo-campo input::placeholder {
+  color: #aaa;
+}
+
+.grupo-campo input:focus {
+  border-color: #9f7aea;
+  box-shadow: 0 0 0 3px rgba(159, 122, 234, 0.3);
+}
+
+.botoes-formulario {
+  display: flex;
+  gap: 10px;
+}
+
+.botao-adicionar,
+.botao-cancelar {
+  padding: 12px 24px;
+  border-radius: 9999px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+
+.botao-adicionar {
+  background-color: #9f7aea;
+  color: #fff;
+}
+
+.botao-adicionar:hover {
+  background-color: #805ad5;
+}
+
+.botao-cancelar {
+  background-color: #e2e8f0;
+  color: #333;
+}
+
+.botao-cancelar:hover {
+  background-color: #cbd5e0;
+}

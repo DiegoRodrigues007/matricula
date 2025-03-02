@@ -1,0 +1,17 @@
+C:\matricula-app\back-end\Matriculas.Infrastructure\bin\Debug\net9.0\Matriculas.Infrastructure.deps.json
+C:\matricula-app\back-end\Matriculas.Infrastructure\bin\Debug\net9.0\Matriculas.Infrastructure.runtimeconfig.json
+C:\matricula-app\back-end\Matriculas.Infrastructure\bin\Debug\net9.0\Matriculas.Infrastructure.dll
+C:\matricula-app\back-end\Matriculas.Infrastructure\bin\Debug\net9.0\Matriculas.Infrastructure.pdb
+C:\matricula-app\back-end\Matriculas.Infrastructure\bin\Debug\net9.0\Matriculas.Domain.dll
+C:\matricula-app\back-end\Matriculas.Infrastructure\bin\Debug\net9.0\Matriculas.Domain.pdb
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\Matriculas.Infrastructure.csproj.AssemblyReference.cache
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\Matriculas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\Matriculas.Infrastructure.AssemblyInfoInputs.cache
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\Matriculas.Infrastructure.AssemblyInfo.cs
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\Matriculas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\Matricul.7B406CFC.Up2Date
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\Matriculas.Infrastructure.dll
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\refint\Matriculas.Infrastructure.dll
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\Matriculas.Infrastructure.pdb
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\Matriculas.Infrastructure.genruntimeconfig.cache
+C:\matricula-app\back-end\Matriculas.Infrastructure\obj\Debug\net9.0\ref\Matriculas.Infrastructure.dll
