@@ -8,6 +8,7 @@ import ListagemFiltrosPage from "../pages/ListagemFiltrosPage";
 const AppRoutes: React.FC = () => {
   return (
     <Routes>
+      <Route path="/" element={<MatriculaPage />} />
       <Route path="/alunos" element={<AlunoPage />} />
       <Route path="/matricula" element={<MatriculaPage />} />
       <Route path="/curso" element={<CursoPage />} />
